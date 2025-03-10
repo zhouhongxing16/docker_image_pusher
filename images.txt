@@ -3,8 +3,8 @@ nacos/nacos-server
 openjdk
 openjdk:8-jdk-alpine
 openjdk:17-jdk-alpine
-openjdk:8
-openjdk:17
+openjdk:1.8-jdk
+openjdk:17-jdk
 mysql
 rabbitmq
 redis
