@@ -1,4 +1,5 @@
 nginx
+nacos/nacos-server
 openjdk:8-jdk-alpine
 openjdk:17-jdk-alpine
 mysql
