@@ -2,8 +2,7 @@ nginx
 nacos/nacos-server
 openjdk
 openjdk:8-jdk-alpine
-openjdk:17-jdk-alpine
-openjdk:1.8-jdk
+openjdk:17-jdk-alpine3.14
 openjdk:17-jdk
 mysql
 rabbitmq
