@@ -3,6 +3,7 @@ openjdk
 mysql
 rabbitmq
 redis
+minio/minio
 bitnami/postgresql
 portainer/portainer-ce
 #支持私库
