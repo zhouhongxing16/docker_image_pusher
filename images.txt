@@ -1,5 +1,7 @@
 nginx
 openjdk
+openjdk:8-jdk-alpine
+openjdk:17-jdk-alpine
 mysql
 rabbitmq
 redis
