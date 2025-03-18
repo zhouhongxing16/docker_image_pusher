@@ -2,7 +2,7 @@ nginx
 nacos/nacos-server
 nacos/nacos-server:v1.4.8
 openjdk
-elastic/elasticsearch
+#elastic/elasticsearch
 openjdk:8-jdk-alpine
 openjdk:17-jdk-alpine3.14
 openjdk:17-jdk
