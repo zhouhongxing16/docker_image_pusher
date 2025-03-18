@@ -1,5 +1,6 @@
 nginx
 nacos/nacos-server
+nacos/nacos-server:v1.4.8
 openjdk
 elastic/elasticsearch
 openjdk:8-jdk-alpine
